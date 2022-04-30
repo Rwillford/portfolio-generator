@@ -83,7 +83,6 @@ module.exports = templateData => {
         </header>
         <main class="container my-5">
             ${generateAbout(about)}
-
             ${generateProjects(projects)}
         </main>
 
